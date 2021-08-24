@@ -1,5 +1,5 @@
 ---
-title: "Test page"
+title: "Test sub page"
 description: "Just learning"
 weight: 1
 alwaysopen: true
