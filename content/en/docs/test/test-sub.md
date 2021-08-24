@@ -9,7 +9,7 @@ alwaysopen: true
 
 Some text here
 
-*Some italic text
+*Some italic text*
 
 
 ```shell
