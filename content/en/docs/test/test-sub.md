@@ -16,3 +16,7 @@ One _italic_ word!
 ```shell
 $ terminal stuff
 ```
+
+- List item 1
+- List item 2
+
