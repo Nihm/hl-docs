@@ -11,7 +11,7 @@ Some text here
 
 *Some italic text*
 
-One _italic_ word
+One _italic_ word!
 
 ```shell
 $ terminal stuff
