@@ -1,4 +1,4 @@
 ---
-title: "ELASTX Documentation"
+title: "HL Documentation"
 type: "page"
 ---
