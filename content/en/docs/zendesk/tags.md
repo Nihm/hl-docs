@@ -5,7 +5,7 @@ weight: 1
 alwaysopen: true
 ---
 
-## Zendesk Tags for Jelastic Incidents
+## Tags for Jelastic Incidents
 
 Main Category | Sub Category |
 --- | --- |
@@ -49,8 +49,31 @@ LoadBalancer | Varnish
 SSL | LetsEncrypt
 SSL | BuiltInSSL
 Network | Firewall
-Sign-up |
 
+## Tags for OpenStack Incidents
 
-
-
+Main Category | Sub Category |
+--- | --- |
+Compute | Instance
+Compute | Image
+Compute | Flavor
+Network | Router
+Network | Subnet
+Network | Port
+Network | SecurityGroup
+Network | OctaviaLB
+Network | FloatingIP
+Network | VPN
+Volume | Backup
+Volume | Snapshot
+Key | 
+ObjectStorage | 
+Kubernetes | 
+Key | 
+ObjectStorage | 
+Kubernetes | 
+AccessControl | User
+Project | Create
+Project | Delete
+Authentication | API
+Authentication | GUI
